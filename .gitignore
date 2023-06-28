@@ -1,0 +1,5 @@
+CTImageQuality/
+data/
+weights/
+*.pth
+.ipynb_checkpoints/
